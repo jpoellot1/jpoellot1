@@ -7,6 +7,7 @@ Frontend Developer
 I am a Frontend Software Developer who came from a Finance and Logistics background.
 
 * 🌍  I'm based in United States
+* 🖥️  See my portfolio at [https://jpoellot1.github.io/Portfolio/](http://jpoellot1.github.io/Portfolio/)
 * ✉️  You can contact me at [j.poellot1@gmail.com](mailto:j.poellot1@gmail.com)
 
 <p align="left">
